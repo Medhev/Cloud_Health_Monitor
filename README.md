@@ -112,4 +112,4 @@ Access the interactive API documentation in your browser at: [http://127.0.0.1:8
 ## 👤 Author
 
 **Medhev Raja S**  
-*B.E. Computer Science and Engineering | Aspiring Cloud & Infrastructure Engineer*
+*Aspiring Cloud & Infrastructure Engineer*
