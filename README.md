@@ -1,6 +1,6 @@
 # ☁️ Enterprise Cloud Health & Telemetry Monitoring Daemon
 
-![CI/CD Pipeline](https://github.com/Medhev/cloud_health_monitor/actions/workflows/ci.yml/badge.svg)
+![Cloud Monitor CI](https://github.com/Medhev/Cloud-Health-Monitor/actions/workflows/ci.yml/badge.svg?branch=main)
 ![Python Version](https://img.shields.io/badge/python-3.12%2B-blue.svg)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.110.0-teal.svg)
 
