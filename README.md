@@ -58,13 +58,13 @@ cd cloud_health_monitor
 ```
 
 ### 2. Set Up Virtual Environment 
-### for Windows:
+#### for Windows:
 ```bash
 python -m venv .venv
 .venv\Scripts\activate
 ```
 
-### for macOS / Linux:
+#### for macOS / Linux:
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
